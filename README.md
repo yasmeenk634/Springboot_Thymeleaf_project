@@ -1,2 +1,3 @@
 # Springboot_Thymeleaf_project
-Springboot,Thymeleaf,mySql,Project_CURD Operation
+SpringBoot,Thymeleaf,mySql,Project_CURD Operation
+
